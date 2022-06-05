@@ -1,9 +1,9 @@
 {
-  "name": "valine",
-  "version": "1.4.18",
-  "description": "A simple comment system based on Leancloud.",
+  "name": "xiaojiji",
+  "version": "0.1.0",
+  "description": "A simple comment system based on sqlite.",
   "main": "dist/Valine.min.js",
-  "author": "xCss <xioveliu@gmail.com> (https://github.com/xCss)",
+  "author": "guo <guohongbin@163.com> (https://github.com/Logan676)",
   "scripts": {
     "test": "webpack",
     "build": "webpack",
@@ -20,9 +20,9 @@
   "license": "GPL-2.0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xcss/Valine.git"
+    "url": "git+https://github.com/Logan676/Valine.git"
   },
-  "homepage": "https://github.com/xcss/Valine#readme",
+  "homepage": "https://github.com/Logan676/Valine#readme",
   "devDependencies": {
     "autoprefixer": "^7.1.1",
     "babel-core": "^6.25.0",
