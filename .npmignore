@@ -18,3 +18,4 @@ index.html
 postcss.config.js
 webpack.config.js
 webpack.dev.config.js!/src/backend/database/database.sqlite
+!/src/backend/database/
